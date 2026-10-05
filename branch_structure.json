@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "chore/clean-routes-d-drafts",
+    "feature/cli-entrypoint",
+    "feature/docs-contributing-guide",
+    "feature/docs-readme",
+    "feature/init-nextjs-ts-template",
+    "fix/1021-js-minimal-tx-history",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "chore/clean-routes-d-drafts": "main",
+    "feature/cli-entrypoint": "main",
+    "feature/docs-contributing-guide": "main",
+    "feature/docs-readme": "main",
+    "feature/init-nextjs-ts-template": "main",
+    "fix/1021-js-minimal-tx-history": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "chore/clean-routes-d-drafts",
+    "feature/cli-entrypoint",
+    "feature/docs-contributing-guide",
+    "feature/docs-readme",
+    "feature/init-nextjs-ts-template",
+    "fix/1021-js-minimal-tx-history",
+    "origin"
+  ]
+}
